@@ -41,7 +41,7 @@ echo "<br> Mata Kuliah: $matkul";
 echo "<br> Nilai UTS: $uts";
 echo "<br> Nilai UAS: $uas";
 echo "<br> Nilai Tugas: $tugas";
-echo "<br> Status: $status";
 echo "<br> Nilai Total: $nilai_total";
+echo "<br> Status: $status";
 echo "<br> Grade: $grade";
 echo "<br> Predikat: $predikat";
