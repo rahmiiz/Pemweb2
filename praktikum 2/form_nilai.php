@@ -12,7 +12,7 @@
     <h2 class="text-center">Form Nilai Siswa</h2>
     <hr>
 
-    <form class="mr-5 ml-5" action="proses_nilaii.php" method="get">
+    <form class="mr-5 ml-5" action="proses_nilai.php" method="get">
         <div class="form-group row">
             <label for="nama" class="col-4 col-form-label">Nama</label>
             <div class="col-8">
